@@ -1,0 +1,6 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Asus\Desktop\appTransmotion\conf\application.conf,C:\Users\Asus\Desktop\appTransmotion\target\scala-2.11\classes\application.conf)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Asus\Desktop\appTransmotion\conf\evolutions,C:\Users\Asus\Desktop\appTransmotion\target\scala-2.11\classes\evolutions)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Asus\Desktop\appTransmotion\conf\routes,C:\Users\Asus\Desktop\appTransmotion\target\scala-2.11\classes\routes)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Asus\Desktop\appTransmotion\conf\evolutions\default,C:\Users\Asus\Desktop\appTransmotion\target\scala-2.11\classes\evolutions\default)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Asus\Desktop\appTransmotion\conf\evolutions\default\1.sql,C:\Users\Asus\Desktop\appTransmotion\target\scala-2.11\classes\evolutions\default\1.sql)[0m
